@@ -8,7 +8,7 @@ setup(
   author = 'Joel Barmettler',
   author_email = 'michaelnavean@gmail.com',
   url = 'https://https://github.com/onuohasilver/quickml',
-  download_url='https://github.com/onuohasilver/quickml/archive/0.1.tar.gz',
+  download_url='https://github.com/onuohasilver/quickml/archive/0.1.1.tar.gz',
   keywords = ['machine learning', 'quick', 'data', 'analyse', 'predict', 'fast', 'baseline'],
   install_requires=[
           'category_encoders'

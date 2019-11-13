@@ -11,13 +11,13 @@ from itertools import combinations
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import PolynomialFeatures
-from ColumnEncoder import MultiColumnLabelEncoder
+from quickml.ColumnEncoder import MultiColumnLabelEncoder
 
 class Add_interactions:
     """
     Parameters
     ----------
-    columns : array-like
+    columns : array-like``
 
     Examples
     --------
